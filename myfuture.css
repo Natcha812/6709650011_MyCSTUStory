@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(244, 248, 219);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 300;
+    color: rgb(139, 0, 14);
+    margin-left: 10%;
+    margin-right: 10%;
+    border-image-width: 0%;
+}
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+    
+}
