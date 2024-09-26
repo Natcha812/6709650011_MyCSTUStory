@@ -8,3 +8,8 @@ body{
     margin-right: 10%;
 
 }
+h2{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    color: brown;
+}
